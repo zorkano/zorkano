@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zorkano
-- 👀 I’m interested in Machine learning , Ai and Software Engineering
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in embedded systems , robotics and Software Engineering
+- 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on any project i can help with
 - 📫 How to reach me ...
 
