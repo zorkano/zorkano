@@ -3,7 +3,7 @@ zorkano/zorkano is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m Seif El-deen i a Mansoura University Enginnering undergrad<br>🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning Embedded systems and AI<br>⚡ Fun fact: cats are cute
+👋 Hi, I’m Seif El-deen i a Mansoura University Engineering undergrad<br>🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning Embedded systems and AI<br>⚡ Fun fact: cats are cute
 
 
 ## 🌐 Socials:
