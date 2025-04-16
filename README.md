@@ -3,7 +3,7 @@ zorkano/zorkano is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m Seif El-deen i a Mansoura University Engineering undergrad<br>🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning Embedded systems and AI<br>⚡ Fun fact: cats are cute
+👋 Hi, I’m Seif El-deen i'm a Mansoura University Engineering undergrad<br>🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning Embedded systems and AI<br>⚡ Fun fact: cats are cute
 
 
 ## 🌐 Socials:
@@ -18,5 +18,3 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zorkano&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
